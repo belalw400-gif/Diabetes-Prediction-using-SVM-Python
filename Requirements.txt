@@ -1,7 +1,5 @@
-Requirements:
-Libraries:
-1- Pandas
-2- NumPy
-3- Sicket_learn
-4- Matplotlib
-5- Seaborn
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
